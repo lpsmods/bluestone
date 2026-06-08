@@ -1,21 +1,24 @@
-# Bluestone
+# [<](../README.md) Bluestone
 
-![Curseforge](https://img.shields.io/curseforge/dt/397358?logo=curseforge&label=&suffix=%20&style=for-the-badge&color=242629&labelColor=e04e14&logoColor=1c1c1c)
-![Version](https://img.shields.io/curseforge/v/397358?style=for-the-badge)
-![Game Versions](https://img.shields.io/curseforge/game-versions/397358?style=for-the-badge)
+![alt](pack.png)
 
-Bluestone? Bluestone adds one block components to make your redstone small and easy!
+Bluestone? Bluestone adds one block component to make your Redstone small and easy!
 
-## Mod Data
+## Pack Data
 
-| Key       | Value          |
-| --------- | -------------- |
-| namespace | `bluestone`   |
-| slug      | `bluestone` |
+| Key                | Value                                                                                                 |
+| ------------------ | ----------------------------------------------------------------------------------------------------- |
+| supported          | `no`                                                                                                  |
+| namespace          | `bluestone`                                                                                           |
+| pack_version       | `beta`                                                                                                |
+| mc_version         | `1.16.5`                                                                                              |
+| multiplayer_tested | `no`                                                                                                  |
+| has_config         | `no`                                                                                                  |
+| dependency         | [LPS Rcore API](https://www.curseforge.com/minecraft/customization/legopitstops-recipe-core-datapack) |
 
 ## LINKS
 
 - [Download](https://www.curseforge.com/minecraft/customization/bluestone-datapack)
-- [Wiki Page](https://docs.lpsmods.dev/bluestone)
+- [Wiki Page](https://github.com/legopitstop/Datapacks/wiki)
 - [License](https://license.lpsmods.dev)
-- [Bug Report](https://github.com/lpsmods/bluestone/issues)
+- [Bug Report](https://github.com/legopitstop/Datapacks/issues)
